@@ -13,4 +13,11 @@ $ git log -n 12
 $ git log -12
 ````
 
+Darstellung in einzeiliger Form mit Graph:
+
+````shell
+$ git log --oneline --graph
+````
+
+
 ## Verweise
