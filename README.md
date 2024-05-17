@@ -8,3 +8,7 @@ Thema dieser Projektarbeit ist die gemeinsame Erstellung von Markdown-Dokumenten
 Hiermit habe ich eine neue Zeile in der README.md Datei hinzugefügt.
 Ich habe auch eine Änderung vorgenommen
 
+Peter hat was reingeschrieben
+und noch etwas
+
+O
