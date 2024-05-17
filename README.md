@@ -4,3 +4,5 @@ Dieses Projekt ist der Ausgangspunkt für die gemeinsame Projektarbeit am Ende d
 
 Thema dieser Projektarbeit ist die gemeinsame Erstellung von Markdown-Dokumenten zu beliebten Git-Subcommands.
 
+
+Hiermit habe ich eine neue Zeile in der README.md Datei hinzugefügt.
