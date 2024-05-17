@@ -6,5 +6,8 @@ Thema dieser Projektarbeit ist die gemeinsame Erstellung von Markdown-Dokumenten
 
 
 Hiermit habe ich eine neue Zeile in der README.md Datei hinzugefügt.
-Ich habe auch eine Änderung vorgenommen
+<<<<<<< HEAD
+=======
 
+Ich habe auch eine Änderung vorgenommen
+>>>>>>> e86e41ccb07e7932cfe82e1792f8e3346228b9d5
