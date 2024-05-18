@@ -3,6 +3,7 @@
 ## Nutzen
 
 Zeigt die Commit-Historie an.
+Durch weitere Optionen kann die Anzeige der Historie anpasst werden und somit die notwendigen Informationen extrahiert werden.
 
 ## Beispiele
 
